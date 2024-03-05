@@ -1,0 +1,13 @@
+/* styles/fonts.css */
+
+/* public/fonts/fonts.css */
+
+@font-face {
+     font-family: 'Spezia Semi Mono';
+     src: url('/fonts/spezia-semi-mono.woff2') format('woff2'),
+          url('/fonts/spezia-semi-mono.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+   }
+   
+  
